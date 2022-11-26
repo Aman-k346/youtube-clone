@@ -1,0 +1,13 @@
+.w20{
+    width: 40px;
+}
+li{
+    list-style: none;
+}
+.flex-row{
+    display: flex;
+
+}
+.invert{
+    filter: invert();
+}
