@@ -1,4 +1,4 @@
-## git guide
+## Git guide
 
 `// no need to run this command in terminal , if you have cloned the repo`
 ```md
